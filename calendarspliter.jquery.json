@@ -1,0 +1,29 @@
+{
+    "name": "CalendarSplitter",
+    "title": "jQuery Calendar Splitter",
+    "description": "jQuery plugin to show a year calendar splitted for ranges",
+    "keywords": [
+        "calendar",
+        "querter",
+        "month"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Andrés Lozada Mosto",
+        "url": "https://github.com/alfathenus/"
+    },
+
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/alfathenus/CalendarJQueryPlugin/blob/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/alfathenus/CalendarJQueryPlugin/issues",
+    "homepage": "https://github.com/alfathenus/CalendarJQueryPlugin",
+    "docs": "https://github.com/alfathenus/CalendarJQueryPlugin",
+    "download"    : "https://github.com/alfathenus/CalendarJQueryPlugin/archive/v2.1.1.zip",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
