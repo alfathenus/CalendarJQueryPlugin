@@ -24,6 +24,7 @@
     "docs": "https://github.com/alfathenus/CalendarJQueryPlugin",
     "download"    : "https://github.com/alfathenus/CalendarJQueryPlugin/archive/v2.1.1.zip",
     "dependencies": {
-        "jquery": ">=1.5"
+        "jquery": ">=1.5",
+        "bootstrap":">2.x"
     }
 }
